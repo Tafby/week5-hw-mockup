@@ -30,7 +30,8 @@ h1 { font-size: 3rem;}
           height: 9rem;}
 
 .right-side { float: left;
-              width: 75%;}
+              width: 75%;
+              padding-bottom: 1rem;}
 
 .padding-box { padding: 5px;}
 
