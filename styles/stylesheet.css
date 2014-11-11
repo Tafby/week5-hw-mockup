@@ -1,13 +1,13 @@
 * {font-family: 'Annie Use Your Telescope', cursive;}
 
 .top-nav li { display: inline-block;
-padding-left: 2rem;}
+              padding-left: 2rem;}
 
 .top-nav ul { text-align: center;
-padding: 0;}
+              padding: 0;}
 
 .green { background-color: #C2DE61;
-height: 10rem;}
+        height: 10rem;}
 
 .yellow { background-color: #DED662;
           height: 4rem;}
@@ -15,13 +15,13 @@ height: 10rem;}
 p { text-align: center;
     padding: 1.5rem;}
 
-h2 { text-align: center; color: white;}
+h2 { text-align: center; 
+    color: white;}
+
 h1 { font-size: 3rem;}
 
-
 .left-side { float:left;
-  width: 25%;
-}
+  width: 25%;}
 
 .side-nav ul { background-color: #5EDFDC;
               height: 20rem;}
@@ -36,9 +36,9 @@ h1 { font-size: 3rem;}
 
 a { text-decoration: none;
     font-size: 2rem;
-color:black;}
+    color:black;}
 
 ul {  list-style-type: none;}
 
 footer {  background-color: grey;
-        text-align: center;}
+          text-align: center;}
