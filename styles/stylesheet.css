@@ -21,13 +21,13 @@ h2 { text-align: center;
 h1 { font-size: 3rem;}
 
 .left-side { float:left;
-  width: 25%;}
+            width: 25%;}
 
 .side-nav ul { background-color: #5EDFDC;
               height: 20rem;}
 
 .blue-box { background-color: #5CBDDC;
-          height: 10rem;}
+          height: 9rem;}
 
 .right-side { float: left;
               width: 75%;}
