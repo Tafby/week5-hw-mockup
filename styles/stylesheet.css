@@ -16,7 +16,7 @@ p { text-align: center;
     padding: 1.5rem;}
 
 h2 { text-align: center; 
-    color: white;}
+    color: black;}
 
 h1 { font-size: 3rem;}
 
@@ -42,4 +42,15 @@ a { text-decoration: none;
 ul {  list-style-type: none;}
 
 footer {  background-color: grey;
+<<<<<<< HEAD
           text-align: center;}
+=======
+          text-align: center;}
+
+.offscreen {position: absolute;
+left: -10000px;
+top: auto;
+width: 1px;
+height: 1px;
+overflow: hidden;}
+>>>>>>> gh-pages
