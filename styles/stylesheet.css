@@ -44,8 +44,7 @@ ul {  list-style-type: none;}
 footer {  background-color: grey;
 <<<<<<< HEAD
           text-align: center;}
-=======
-          text-align: center;}
+
 
 .offscreen {position: absolute;
 left: -10000px;
@@ -53,4 +52,4 @@ top: auto;
 width: 1px;
 height: 1px;
 overflow: hidden;}
->>>>>>> gh-pages
+
